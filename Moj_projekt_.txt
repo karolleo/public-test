@@ -1,4 +1,5 @@
-﻿Dodałem ci plik
+Dodałem ci plik
+2-ga linijka
 druga linijka
 1
 trzecia linijka
