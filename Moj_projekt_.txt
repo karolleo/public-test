@@ -1,3 +1,4 @@
 ﻿Dodałem ci plik
 druga linijka
+1
 trzecia linijka
